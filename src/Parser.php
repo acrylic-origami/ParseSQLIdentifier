@@ -23,7 +23,7 @@ class Parser {
 	 * Extract the identifiers from the string. Don't validate the existence of any individual component.
 	 *
 	 * @since 1.0.0
-	 * @param int	$str	Identifier string to parse
+	 * @param string	$str	Identifier string to parse
 	 */
 	
 	public function parse($str) {
